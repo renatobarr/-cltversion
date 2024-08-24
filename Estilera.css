@@ -1,0 +1,52 @@
+body {
+    margin: 0;
+    font-family: Montserrat;
+    background-color: #1f1f1ff8;
+}
+
+.cabeçudo {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #ff7b00f8;
+    color: #1f1f1ff8;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    box-shadow: 5px 2px 15px #ff7b00f8;
+    z-index: 1000;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.nome {
+    font-family: 'Montserrat Black';
+    font-size: 50px;
+}
+
+.conteudo{
+    font-family: 'Montserrat Medium';
+    font-size: 30px;
+    color: #ff7b00f8;
+    text-align: center;
+}
+
+h1{
+    margin-top: 150px;
+}
+
+h2{
+    margin-top: 40px;
+
+}
+
+p{
+    margin-top: 20px;
+    font-size: 20px;
+    color: white;
+    margin-left: 100px;
+     margin-right: 100px;
+    text-align: center;
+
+}
